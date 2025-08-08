@@ -7,6 +7,9 @@
 
 - 🌱 I’m currently learning **Frontend and Backend Development**
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KunalSeh.KunalSeh&"  />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/jainlakshit](https://www.linkedin.com/in/kunal-sehrawat-866233256/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalsehrawat4809@gmail.com) 
@@ -17,8 +20,7 @@
 <a href="https://www.geeksforgeeks.org/user/kunalsehrelef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lkshysh7vst" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
+# 💻 Language and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -49,8 +51,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=KunalSeh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSeh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KunalSeh.KunalSeh&"  />
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
