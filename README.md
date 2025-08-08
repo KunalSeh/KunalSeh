@@ -20,7 +20,7 @@
 <a href="https://www.geeksforgeeks.org/user/kunalsehrelef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lkshysh7vst" height="30" width="40" /></a>
 </p>
 
-# 💻 Language and Tools:
+# 🛠️ Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
