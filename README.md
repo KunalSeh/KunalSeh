@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal </h1>
 <p align="center">A passionate Computer Science undergrad from INDIA</p>
+
 # 💫 About Me:
+
 - 🔭 I’m currently working on **Data Structures and algorithms**
 
 - 🌱 I’m currently learning **Frontend and Backend Development**
